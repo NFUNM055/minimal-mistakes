@@ -21,9 +21,9 @@ title_separator          : "："
 name                     : "刘丽冰"
 description              : "使用Jekyll搭建的网站"
 url                      : https://nfunm055.gitee.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  :"/minimal-mistakes" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "nfunm055/minimal-mistakes"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   :"500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
