@@ -1,21 +1,21 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "简书"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "分类展示"
+  - title: "SVG制作"
     url: /design/
-  - title: "网页制作与SVG"
+  - title: "界面设计"
     url: /svg/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "平面设计"
+    url: /collection-archive/
+  - title: "About"
+    url: /sitemap/
  
 docs:
   - title: 从这里开始
     children:
       - title: "首页"
-        url: https://wuxue1234.gitee.io/minimal-mistakes/
+        url: https://gitee.com/NFUNM055/minimal-mistakes/
       - title: "SVG制作"
         url: /svg/
       - title: "设计"
